@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resource/icons/icons8-abrir-pasta-16.png</file>
+        <file>resource/icons/icons8-colar-16.png</file>
+        <file>resource/icons/icons8-copiar-16.png</file>
+        <file>resource/icons/icons8-desfazer-16.png</file>
+        <file>resource/icons/icons8-fechar-16.png</file>
+        <file>resource/icons/icons8-nova-pasta-16.png</file>
+        <file>resource/icons/icons8-recortar-16.png</file>
+        <file>resource/icons/icons8-refazer-16.png</file>
+        <file>resource/icons/icons8-salvar-16.png</file>
+        <file>resource/icons/icons8-sobre-16.png</file>
+        <file>resource/icons/icons8-salvarc-16 - Copia.png</file>
+        <file>resource/icons/icons8-cor-16.png</file>
+        <file>resource/icons/icons8-texto-16.png</file>
+        <file>resource/icons/icons8-corfundo-16.png</file>
+        <file>resource/icons/icons8-impressora-16.png</file>
+    </qresource>
+</RCC>
